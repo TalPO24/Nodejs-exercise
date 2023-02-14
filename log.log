@@ -1,0 +1,15 @@
+{"level":"error","message":{"method":"GET","url":"/api/avatiah"},"timestamp":"2022-12-25T09:42:46.875Z"}
+{"level":"warn","message":{"body":{"email":"tal3@gmail.com1","password":"Aa123456@@"},"method":"POST","url":"/api/auth/login"},"timestamp":"2022-12-25T10:01:35.992Z"}
+{"level":"warn","message":{"body":{"email":"tal3@gmail.com1","password":"Aa123456@@"},"method":"POST","url":"/api/auth/login"},"timestamp":"2022-12-25T10:02:21.952Z"}
+{"level":"warn","message":{"body":"tal3@gmail.com1","method":"POST","url":"/api/auth/login"},"timestamp":"2022-12-25T10:05:08.271Z"}
+{"level":"warn","message":{"body":{"email":"tal3@gmail.com1","name":"tal3","password":"Aa123456@@"},"method":"POST","url":"/api/auth/register"},"timestamp":"2022-12-25T10:09:50.805Z"}
+{"level":"warn","message":{"body":{"email":"tal3@gmail.com1","name":"tal3","password":"Aa123456@@"},"method":"POST","url":"/api/auth/register"},"timestamp":"2022-12-25T10:10:15.555Z"}
+{"level":"error","message":{"method":"GET","url":"/api/users/userInfo"},"timestamp":"2022-12-25T12:36:05.355Z"}
+{"level":"error","message":{"method":"GET","url":"/api/users/userInfo"},"timestamp":"2022-12-25T12:40:49.357Z"}
+{"level":"error","message":{"method":"POST","url":"/api/users/login"},"timestamp":"2022-12-25T12:44:29.115Z"}
+{"level":"error","message":{"method":"POST","url":"/api/users/register"},"timestamp":"2022-12-25T12:44:42.579Z"}
+{"level":"error","message":{"method":"POST","url":"/api/users/login"},"timestamp":"2022-12-25T12:45:25.462Z"}
+{"level":"error","message":{"method":"POST","url":"/api/users/login"},"timestamp":"2022-12-25T12:46:28.072Z"}
+{"level":"error","message":{"method":"GET","url":"/api/users/userInfo"},"timestamp":"2022-12-26T10:03:23.569Z"}
+{"level":"error","message":{"method":"GET","url":"/api/puzzle"},"timestamp":"2022-12-26T12:33:39.398Z"}
+{"level":"error","message":{"method":"GET","url":"/api/puzzle"},"timestamp":"2022-12-26T12:41:41.368Z"}
